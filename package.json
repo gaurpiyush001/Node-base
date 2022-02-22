@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Jonas Schmedtmann",
+  "author": "Piyush Gaur",
   "license": "ISC",
   "dependencies": {
     "slugify": "^1.6.3"
